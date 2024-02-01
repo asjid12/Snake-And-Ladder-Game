@@ -1,1 +1,1 @@
-i have worked on this project with my classmate. it is a console based game with oop concepts.
+i have worked on this project with my classmate. it is based on simple programming fundamental concepts.
